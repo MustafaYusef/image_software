@@ -1,0 +1,11 @@
+c:\users\ansam\documents\visual studio 2013\Projects\imag\imag\bin\Debug\imag.exe.config
+c:\users\ansam\documents\visual studio 2013\Projects\imag\imag\obj\Debug\imag.Form1.resources
+c:\users\ansam\documents\visual studio 2013\Projects\imag\imag\obj\Debug\imag.Resources.resources
+c:\users\ansam\documents\visual studio 2013\Projects\imag\imag\obj\Debug\imag.vbproj.GenerateResource.Cache
+c:\users\ansam\documents\visual studio 2013\Projects\imag\imag\bin\Debug\imag.exe
+c:\users\ansam\documents\visual studio 2013\Projects\imag\imag\bin\Debug\imag.pdb
+c:\users\ansam\documents\visual studio 2013\Projects\imag\imag\bin\Debug\imag.xml
+c:\users\ansam\documents\visual studio 2013\Projects\imag\imag\obj\Debug\imag.exe
+c:\users\ansam\documents\visual studio 2013\Projects\imag\imag\obj\Debug\imag.xml
+c:\users\ansam\documents\visual studio 2013\Projects\imag\imag\obj\Debug\imag.pdb
+C:\Users\ansam\documents\visual studio 2013\Projects\imag\imag\obj\Debug\imag.vbprojResolveAssemblyReference.cache
